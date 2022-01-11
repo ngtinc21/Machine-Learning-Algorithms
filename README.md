@@ -8,4 +8,4 @@ Machine Learning (ML)
 Deep Learning 
 - History and evolution, categories, important breakthrough
 
-Steps in 
+Core Steps in Machine Learning Workflow
