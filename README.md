@@ -1,6 +1,6 @@
 # Machine-Learning-Algorithms
 Artificial Intelligence (AI)
-- Reasons of the rise of Ai, important applications
+- Reasons of the rise of AI, important applications
 
 Machine Learning (ML)
 - History and evolution, catergories, important breakthrough
