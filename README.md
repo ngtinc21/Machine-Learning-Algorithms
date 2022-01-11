@@ -1,4 +1,4 @@
-# Machine-Learning-Algorithm
+# Machine-Learning-Algorithms
 Artificial Intelligence (AI)
 - Reasons of the rise of Ai, important applications
 
